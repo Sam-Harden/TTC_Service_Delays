@@ -14,4 +14,4 @@ The model is built based on following settings. The minimum delay time which is 
 
 To create and save a model run [‘ttc_2_ranges_preprocessing_and_model_creation.bat’](https://github.com/lenamv/TTC_Service_Delays/blob/master/ttc_2_ranges_preprocessing_and_model_creation.bat) file.
 
-The model will be saved as the [‘ttc_2_delays_model.pickle’](https://github.com/lenamv/TTC_Service_Delays/blob/master/4.%20Insights/Models/ttc_2_delays_model.pickle) file in the [‘4. Insights\Models’]() folder.
+The model will be saved as the [‘ttc_2_delays_model.pickle’](https://github.com/lenamv/TTC_Service_Delays/blob/master/4.%20Insights/Models/ttc_2_delays_model.pickle) file in the [‘4. Insights\Models’](https://github.com/lenamv/TTC_Service_Delays/tree/master/4.%20Insights/Models) folder.
