@@ -12,6 +12,6 @@ Selection of project setting including time periods could be changed with some l
 
 The model is built based on following settings. The minimum delay time which is considered in the project is 15 minutes. Only delays after 6:00 AM form '2016-10-01' to '2019-10-31' are evaluated. Also, two ranges of time delays are defined: 15-60 minutes and 60 minutes or more. They were selected based on personal schedule requirements.
 
-To create and save a model run [‘ttc_2_ranges_preprocessing_and_model_creation.bat’]() file.
+To create and save a model run [‘ttc_2_ranges_preprocessing_and_model_creation.bat’](https://github.com/lenamv/TTC_Service_Delays/blob/master/ttc_2_ranges_preprocessing_and_model_creation.bat) file.
 
 The model will be saved as the [‘ttc_2_delays_model.pickle’]() file in the [‘4. Insights\Models’]() folder.
