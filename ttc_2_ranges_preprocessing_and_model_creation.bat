@@ -1,0 +1,3 @@
+@ECHO OFF
+python ttc_2_ranges_preprocessing_data.py
+python ttc_2_ranges_models.py
